@@ -1,0 +1,10 @@
+Austria:Viena
+Francia:Paris
+Japon:Tokio
+Alemania:Berlin
+Portugal:Lisboa
+Italia:Roma
+Grecia:Atenas
+Espana:Madrid
+Noruega:Oslo
+China:Pekin
